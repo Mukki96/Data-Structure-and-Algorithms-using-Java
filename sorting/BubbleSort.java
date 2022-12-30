@@ -19,7 +19,7 @@ class BubbleSort {
         int[] arr = {12,65,22,1,23};
         int[] sorted_list = b.sort(arr);
         for(int i : sorted_list){
-            System.out.print(i+" ");
+            System.out.print(i+"  ");
         }
     }
 }
